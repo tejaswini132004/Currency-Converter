@@ -15,8 +15,7 @@ A simple currency converter built using React.js. This application allows users 
 ## Installation
 
 **Clone the repository:**
-git clone https://github.com/tejaswini132004/Currency-Convertor.git
-
+git clone https://github.com/tejaswini132004/Currency-Converter.git
 **Navigate to the project directory:**
 cd currency-converter
 
